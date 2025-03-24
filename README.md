@@ -1,6 +1,6 @@
 Nama Project : Aplikasi kegiatan Seminar / Webinar
 
-Link Repository : https://github.com/bpradna/tubes-pemweb.git
+Link Repository : https://github.com/bpradana/tubes-pemweb.git
 
 Anggota Kelompok :
 1. Aziz Dafa Putra		        (M0518008)
